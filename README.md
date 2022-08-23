@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Jarrod. I've been working in the tech industry for many years. Right now I specialize in frontend development using React, Angular etc. 
+I'm Jarrod. I've been working in the tech industry for many years. Right now I specialize in frontend development using React, Angular etc. I am also learning Rust.
 
 <!--
 **jarrodmedrano/jarrodmedrano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
