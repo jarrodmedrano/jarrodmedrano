@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 Here's my BS intro written by Chat GPT: Hello! I'm Jarrod and I'm a web developer specializing in front-end development with a focus on React. With a solid foundation in current front-end technologies, I bring expertise in building engaging and responsive web applications. I'm super into crafting intuitive user experiences and leveraging the power of React & Next JS to create dynamic and interactive interfaces. Constantly seeking to learn and grow, I stay up-to-date with the latest advancements in front-end development to deliver high-quality and performant solutions. Let's collaborate and create amazing web experiences together!
 
 In all seriousness though, I love learning about web development as you can see from my git history.
