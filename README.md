@@ -3,10 +3,10 @@ Here's my BS intro written by Chat GPT: Hello! I'm Jarrod and I'm a web develope
 
 In all seriousness though, I love learning about web development as you can see from my git history.
 
-## 📝 I’m currently learning
+## 📝 I’m currently using and learning:
 - 🌎 Terraform with AWS
-- 🪓 Next JS
-- ⛵ Docker
+- 🪓 Next JS with TRPC
+- 🐳 Docker
 - 🦀 Rust (when time permits)
 
 <!--
