@@ -1,4 +1,6 @@
 # Hi there 👋
+![Jarrod's GitHub stats](https://github-readme-stats.vercel.app/api?username=jarrodmedrano&hide=contribs,prs)
+
 ## 📝 I’m currently using and learning:
 - 🌎 Terraform with AWS
 - 🪓 Next JS with TRPC
