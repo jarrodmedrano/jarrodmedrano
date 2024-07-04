@@ -1,4 +1,6 @@
 # Hi there 👋
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jarrodmedrano&repo=github-readme-stats)](https://github.com/jarrodmedrano/github-readme-stats)
+
 [![Jarrod's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jarrodmedrano&theme=dark&layout=compact)](https://github.com/jarrodmedrano/github-readme-stats)
 
 ## 📝 I’m currently using and learning:
