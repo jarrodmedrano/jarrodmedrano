@@ -1,5 +1,5 @@
 # Hi there 👋
-![Jarrod's GitHub stats](https://github-readme-stats.vercel.app/api?username=jarrodmedrano&hide=contribs,prs)
+[![Jarrod's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jarrodmedrano)](https://github.com/jarrodmedrano/github-readme-stats)
 
 ## 📝 I’m currently using and learning:
 - 🌎 Terraform with AWS
